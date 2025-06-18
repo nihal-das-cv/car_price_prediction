@@ -2,7 +2,7 @@
 name = "folder"
 version = "0.1.0"
 description = ""
-authors = [{ name = "nihal-das-cv", email = "nihaldasofficial@gmail.com" }]
+authors = [{ name = "nihal666", email = "nihaldas666@gmail.com" }]
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = ["streamlit (>=1.46.0,<2.0.0)"]
